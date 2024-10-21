@@ -2,11 +2,13 @@ public class Person {
     // Attributes
     private String name;
     private int age;
+	private int balance
 
     // Constructor
-    public Person(String name, int age) {
+    public Person(String name, int age, int balance) {
         this.name = name;
         this.age = age;
+		this.balance = balance;
     }
 
     // Getter for name
@@ -22,6 +24,15 @@ public class Person {
     // Getter for age
     public int getAge() {
         return age;
+    }
+	
+	public int setBalance(int balance) {
+        this.balance = balance;
+    }
+
+	
+	public int getBalance() {
+        return balance;
     }
 
     // Setter for age
