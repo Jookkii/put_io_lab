@@ -144,8 +144,7 @@ Fizyczny lub cyfrowy obiekt, który ma zostać sprzedany w ramach aukcji.
 
 ### BO4: Środki
 
-Kwota zaproponowana przez [Kupującego](#ac2).
-
+Kwota zaproponowana przez [Kupującego](#ac2) w PLN, obsługiwana cyfrowo.
 
 ## Reguły biznesowe
 
