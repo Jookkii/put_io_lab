@@ -1,0 +1,4 @@
+czas 3117 przepustowość 1.3/sec
+czas 7 przepustowość 2/sec
+
+przeniesienie obliczania średniej przed pętle
